@@ -1,6 +1,6 @@
 <h1>ExpNo 4 : Implement A* search algorithm for a Graph</h1> 
-<h3>Name:       </h3>
-<h3>Register Number:           </h3>
+<h3>Name:YUVARAJ V       </h3>
+<h3>Register Number:212223230252           </h3>
 <H3>Aim:</H3>
 <p>To ImplementA * Search algorithm for a Graph using Python 3.</p>
 <H3>Algorithm:</H3>
@@ -88,14 +88,14 @@ J 0 <br>
 <h2>Sample Output</h2>
 <hr>
 Path found: ['A', 'F', 'G', 'I', 'J']
-
+<h2>Output</h2>
+<img width="1387" height="645" alt="image" src="https://github.com/user-attachments/assets/f4f54ec1-05e2-4e73-9769-4928c24e8d44" />
 
 <hr>
 <h2>Sample Graph II</h2>
 <hr>
 
 ![image](https://github.com/natsaravanan/19AI405FUNDAMENTALSOFARTIFICIALINTELLIGENCE/assets/87870499/acbb09cb-ed39-48e5-a59b-2f8d61b978a3)
-
 
 <hr>
 <h2>Sample Input</h2>
@@ -117,3 +117,8 @@ G 0 <br>
 <h2>Sample Output</h2>
 <hr>
 Path found: ['A', 'E', 'D', 'G']
+<h2>Output</h2>
+<img width="1389" height="371" alt="image" src="https://github.com/user-attachments/assets/2f12ac81-ee23-40a7-964b-90498cb1f9c4" />
+
+<h2>Result</h2>
+The result of the A* algorithm is the most efficient (lowest-cost) path from the start node to the goal node
